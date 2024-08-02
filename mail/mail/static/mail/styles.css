@@ -1,0 +1,11 @@
+textarea {
+    min-height: 400px;
+}
+
+.gray_background {
+    background-color: #F1EFEF;
+}
+
+.my-pointer {
+    cursor: pointer;
+}
